@@ -272,6 +272,45 @@ textarea {
     border: 1px solid;
 }
 
+.logo {
+    height:54px;
+    width:54px;
+}
+
 #navbar li {
     display:inline;
+    height:32px;
+}
+
+.title {
+    text-align:center;
+}
+
+.profileSection {
+    float:left;
+    height:280px;
+    width:367px;
+}
+
+.profileSection p {
+    text-align:center;
+}
+
+#profileImage {
+    height:250px;
+    width:250px;
+    padding-left:58.5px;
+    padding-right:58.5px;
+}		   
+
+#content {
+    float:right;
+    width:545px;
+    padding-left:24px;
+    padding-right:24px;
+    font-size:18px;
+}
+
+#footer {
+    clear:both;
 }
