@@ -273,27 +273,34 @@ textarea {
 }
 
 .logo {
-    height:54px;
-    width:54px;
+    height:86px;
+    width:86px;
+}
+
+#navbar ul {
+    padding:0px;
 }
 
 #navbar li {
     display:inline;
-    height:32px;
+    height:54px;
 }
 
 .title {
     text-align:center;
+    height:86px;
+    line-height:86px;
 }
 
 .profileSection {
     float:left;
-    height:280px;
     width:367px;
 }
 
 .profileSection p {
     text-align:center;
+    padding-left:19px;
+    padding-right:19px;
 }
 
 #profileImage {
