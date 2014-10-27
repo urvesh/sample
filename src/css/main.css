@@ -277,19 +277,25 @@ textarea {
     width:86px;
 }
 
+#navbar {
+    height:54px;
+    line-height:54px;
+}
 #navbar ul {
+    display:table;
     padding:0px;
+    margin:0px;
+    width:100%;
 }
 
 #navbar li {
-    display:inline;
-    height:54px;
+    display:table-cell;
+    width:25%;
+    text-align:center;
 }
 
 .title {
     text-align:center;
-    height:86px;
-    line-height:86px;
 }
 
 .profileSection {
