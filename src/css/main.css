@@ -303,6 +303,13 @@ textarea {
     padding-right:19px;
 }
 
+.profileSection ul {
+    list-style-type:none;
+    text-align:center;
+    padding:0;
+    margin:0;
+}   
+
 #profileImage {
     height:250px;
     width:250px;
